@@ -1,0 +1,4 @@
+/home/nikita/projects/my_homework/semester_2/Линал/Лаб_1/build/CMakeFiles/solver_lib.dir
+/home/nikita/projects/my_homework/semester_2/Линал/Лаб_1/build/CMakeFiles/gauss_solver_app.dir
+/home/nikita/projects/my_homework/semester_2/Линал/Лаб_1/build/CMakeFiles/edit_cache.dir
+/home/nikita/projects/my_homework/semester_2/Линал/Лаб_1/build/CMakeFiles/rebuild_cache.dir
