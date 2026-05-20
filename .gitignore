@@ -1,0 +1,42 @@
+# Директории сборки
+build/
+cmake-build-*/
+out/
+
+# Файлы генерации CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
+compile_commands.json
+
+# Скомпилированные объекты и бинарные файлы
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+gauss_solver_app
+gauss_solver_app.exe
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+*.user
+*.sublime-*
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Временные и резервные файлы редакторов
+*.swp
+*~
+.cache/

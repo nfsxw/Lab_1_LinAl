@@ -75,7 +75,7 @@ namespace MatrixUtils {
 
     void print_experiment_result(const std::string& name, double time_ms, double residual) {
         std::cout << std::left << std::setw(30) << name 
-                  << std::right << std::fixed << std::setprecision(6) << std::setw(15) << time_ms 
+                  << std::right << std::fixed << std::setprecision(10) << std::setw(15) << time_ms 
                   << std::setw(15) << residual << std::endl;
     }
 }
