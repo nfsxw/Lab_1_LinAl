@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/gauss_solver_app.dir/src/main.cpp.o -o gauss_solver_app  libsolver_lib.a 
